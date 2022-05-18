@@ -1,0 +1,25 @@
+.body {
+    background-color: antiquewhite;
+}
+.titulo {
+    background-color: rgb(159, 159, 159);
+    text-align: center;
+    font: 700;
+    color: aliceblue;
+    width: auto;
+    height: auto;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    border-radius: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    position:sticky;
+    top: 9px;
+    
+}
+.desarrollo {
+    background-color: rgb(243, 255, 255);
+    width: auto;
+    height: auto;
+    padding-left: 1em;
+    border-radius: 5px;
+}
